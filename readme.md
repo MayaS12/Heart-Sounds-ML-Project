@@ -34,7 +34,7 @@ Note: To complete this project, I cleaned, normalized and converted all the audi
 
 3. Run this command to download the image dataset.
 
-`wget --`
+`wget https://github.com/MayaS12/Heart-Sounds-ML-Project/tree/main/heart_sounds`
 
 4. cd back to 'classification' directory, and then cd into the 'models' directory 
 
@@ -43,7 +43,7 @@ Note: To complete this project, I cleaned, normalized and converted all the audi
 
 5. Run this command to download the skin cancer classification model.
 
-`wget  --`
+`wget https://github.com/MayaS12/Heart-Sounds-ML-Project/tree/main/heart_sounds2`
 
 6. cd back to 'classification' directory
 
@@ -55,7 +55,7 @@ Note: To complete this project, I cleaned, normalized and converted all the audi
 
 8. Set the NET and DATASET variables by running each of these commands separately
 
-`NET=models/heart_sounds`
+`NET=models/heart_sounds2`
 
 `DATASET=data/heart_sounds`
 
