@@ -65,7 +65,7 @@ Note: To complete this project, I cleaned, normalized and converted all the audi
 
 This is an example of what your command should look like after you replace the fill-ins.
 
-`imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/AS/New_AS_161.png $DATASET/test_output_AS/test161.png'
+'imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/AS/New_MVP_164.png $DATASET/test_output_MVP/test164.png'
 
 10. Look at your results by opening the image that just saved in the 'test_output' folder! This folder should be located in jetson-inference/python/training/classification/data/heart_sounds/test_output
 
