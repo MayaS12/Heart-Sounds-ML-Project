@@ -6,7 +6,7 @@ This experience inspired my project, aimed at helping millions of people like my
 
 To prepare the data, I normalized the audio to 1, resampled it to 16kHz, and sorted it into the five categories. I then converted each audio clip into a spectrogram and used transfer learning on the ResNet-18 model to train it with these spectrogram images. This project represents my effort to create a tool that could potentially aid in the early detection of heart conditions, sparing others from the ordeal my family went through.
 
-![Example of a spectrogram](C:\Users\Student\Desktop\MayaS\Heart Sounds\final_data\MVP\MVP\New_MVP_002.png)
+![Example of a spectrogram](https://github.com/user-attachments/assets/98bffab1-db00-4290-afa8-522483450eb4)
 
 ## The Algorithm
 
